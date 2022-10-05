@@ -1,5 +1,5 @@
 {% set name = "tbats" %}
-{% set version = "1.1.0" %}
+{% set version = "1.1.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/tbats-{{ version }}.tar.gz
-  sha256: 5641d7f25cc6ca6487194a7eb2116526fd3022f323eac1269e14cf019cdebc6f
+  sha256: 20b4451fc4b7c9b62a2675ae968aa659529114be20d110aa05b7f5a513380f78
 
 build:
   noarch: python
