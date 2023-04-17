@@ -1,11 +1,11 @@
-About tbats
-===========
+About tbats-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tbats-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/intive-DataScience/tbats
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tbats-feedstock/blob/main/LICENSE.txt)
 
 Summary: BATS and TBATS for time series forecasting
 
